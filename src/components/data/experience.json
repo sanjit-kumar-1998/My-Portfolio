@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "role": "Software Development Engineer (SDE-1)",
+    "organisation": "EasyGov",
+    "duration": "01/06/2022 - 07/08/2023", 
+    "location": "NewDelhi",
+    "experiences": [
+      "Worked With Frontend Team",
+      "Worked on Pagination"
+    ],
+    "imageSrc": "experience/EasyGov.png"
+  }
+]
